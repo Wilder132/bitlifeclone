@@ -2,8 +2,6 @@ import char_base
 import random
 
 
-## Pull request
-
 
 def career_menu(character):
     """Directs the player to the appropriate job menu based on age."""
